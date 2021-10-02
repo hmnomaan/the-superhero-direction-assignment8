@@ -1,0 +1,59 @@
+.food{
+border: 2px solid rgb(128, 99, 28);
+    text-align: center;
+   margin: 25px 10px 10px 10px;
+   padding: 5px; 
+   background-color: rgb(7, 79, 92);
+   color:white;
+   width: 320px;
+   height: 680px;
+   border-radius: 15px;
+   box-shadow: darkslategray;
+}
+.biriyani-name{
+    font-size: 2rem;
+}
+
+
+.food img{
+    padding: 15px;
+height: 250px;
+width: 280px;
+
+}
+.about-food{
+    text-align: justify;
+    margin: 15px;
+
+}
+.origin{
+    font-weight: 700;
+    color:darkgray;
+}
+.price-rate{
+    font-size: 3rem;
+    color: yellow;
+}
+.order-btn{
+    background-color:darkslateblue;
+    width: 150px;
+    height: 40px;
+    border: 1px solid gainsboro;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+.order-btn:hover{
+   background-color:  rgb(255, 0, 221);
+}
+.social-icon {
+   color: whitesmoke;
+   padding: 5px;
+   font-size: 20px;
+
+}
+.social-icon:hover{
+color: violet;
+}

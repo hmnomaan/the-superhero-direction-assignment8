@@ -1,0 +1,145 @@
+[
+    {
+        "key": 20001,
+        "name": "Hyderabadi biryani",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Biryani_Home.jpg/1280px-Biryani_Home.jpg",
+        "description": "Ingredients for biryani vary according to the region and the type of meat and vegetables used. Meat (of either chicken, goat, beef, lamb,[25] prawn or fish) is the prime ingredient with rice. As is common in dishes of the Indian subcontinent, vegetables are sometimes also used when preparing biryani.",
+        "price": 800,
+        "origin": "Indian Sub-Continent",
+        "facebook": "https://www.facebook.com/hyderabadibiryani",
+        "twitter": "https://twitter.com/search?q=hydrabadi%20biriyani&src=recent_search_click&f=live",
+        "instagram": "https://www.instagram.com/hydrabadibiriyani/"
+    },
+    {
+        "key": 20002,
+        "name": "Dhakaiya biryani",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Bangladeshi_Biryani.jpg",
+        "description": "The city of Dhaka in Bangladesh is known for selling Chevon Biryani, a dish made with highly seasoned rice and goat meat. The recipe includes: highly seasoned rice, goat meat, mustard oil, garlic, onion, black pepper, saffron, clove, cardamom, cinnamon, salt, lemon, doi, peanuts, cream, raisins and a small amount of cheese.",
+        "price": 750,
+        "origin": "Dhaka,Bangladesh",
+        "facebook": "https://www.facebook.com/dawatebiriyanibd",
+        "twitter": "https://twitter.com/dhaka_biryani",
+        "instagram": "https://www.instagram.com/dhakabiryani/"
+    },
+    {
+        "key": 20003,
+        "name": "Haji biryani",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Haji_Biriyani.jpg",
+        "description": "The recipe includes highly seasoned rice, chevon, mustard oil, garlic, onion, black pepper, saffron, clove, cardamom, cinnamon, salt, lemon, doi (yogurt), peanuts, cream, raisin and small amount of cheese (either cow or buffalo).",
+        "price": 950,
+        "origin": "Old Dhaka",
+        "facebook": "https://www.facebook.com/Hazibiriyani/",
+        "twitter": "https://twitter.com/hajibiryani",
+        "instagram": "https://www.instagram.com/hajibiryani/"
+    },
+    {
+        "key": 20004,
+        "name": "Kolkata biryani",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Kolkata_Biryani.jpg/1280px-Kolkata_Biryani.jpg",
+        "description": "Calcutta or Kolkata biryani evolved from the Lucknow style, when Awadh's last Nawab Wajkey Ali Shah was exiled in 1856 to the Kolkata suburb of Metiabruz.[18] Shah brought his personal chef with him. The Kolkata biriyani is characterized by the unique presence of potato in it, along with meat.",
+        "price": 1150,
+        "origin": "Kolkata,India",
+        "facebook": "https://www.facebook.com/dawatebiriyanibd",
+        "twitter": "https://twitter.com/dhaka_biryani",
+        "instagram": "https://www.instagram.com/dhakabiryani/"
+    },
+    {
+        "key": 20005,
+        "name": "Afghan biryani",
+        "image": "https://hamariweb.com/recipes/images/recipeimages/183.jpg",
+        "description": "A different dish called biryan is popular in Afghanistan.Biryan traces its origins to the same source as biryani, and is today sold in Afghanistan as well as in Bhopal, India. Biryan is prepared by cooking gosht and rice together, but without the additional gravy (yakhni) and other condiments that are used in biryani.",
+        "price": 750,
+        "origin": "Kabul,Afghanistan",
+        "facebook": "https://www.facebook.com/dawatebiriyanibd",
+        "twitter": "https://twitter.com/dhaka_biryani",
+        "instagram": "https://www.instagram.com/dhakabiryani/"
+    },
+    {
+        "key": 20006,
+        "name": "Bohri biryani",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Biryani_of_Lahore.jpg",
+        "description": "Bohri biryani, prepared by the Bohris is flavoured with many tomatoes. It is popular in Karachi.",
+        "price": 750,
+        "origin": "Lahore,Pakistan",
+        "facebook": "https://www.facebook.com/dawatebiriyanibd",
+        "twitter": "https://twitter.com/dhaka_biryani",
+        "instagram": "https://www.instagram.com/dhakabiryani/"
+    },
+    {
+        "key": 20007,
+        "name": "Beef biryani",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Food-Beef-Biryani-2.jpg/1920px-Food-Beef-Biryani-2.jpg",
+        "description": "Beef biryani, as the name implies, uses beef as the meat. In Hyderabad, it is famous as Kalyani biryani, in which buffalo or cow meat is used.[33][34] This meal was started after the Kalyani Nawabs of Bkeyar came to Hyderabad sometime in the 18th century.",
+        "price": 850,
+        "origin": "Hyderabad,India",
+        "facebook": "https://www.facebook.com/dawatebiriyanibd",
+        "twitter": "https://twitter.com/dhaka_biryani",
+        "instagram": "https://www.instagram.com/dhakabiryani/"
+    },
+    {
+        "key": 20008,
+        "name": "Sri Lankan biryani",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Chicken_Biryani.jpg/1280px-Chicken_Biryani.jpg",
+        "description": "Biryani was brought into Sri Lanka by the South Indian Muslims who were trading in the Northern part of Sri Lanka and in Colombo in the early 1900s.[citation needed] In Sri Lanka, it is Buryani, a colloquial word which generated from Buhari Biryani.",
+        "price": 750,
+        "origin": "Sri Lanka",
+        "facebook": "https://www.facebook.com/dawatebiriyanibd",
+        "twitter": "https://twitter.com/dhaka_biryani",
+        "instagram": "https://www.instagram.com/dhakabiryani/"
+    },
+    {
+        "key": 20009,
+        "name": "Sindhi biryani",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Sindhi_Biryani.JPG/1280px-Sindhi_Biryani.JPG",
+        "description": "The exotic and aromatic Sindhi biryani is known in Pakistan for its spicy taste, fragrant rice and delicate meat. Sindhi biryani is a beloved staple in food menus of Pakistani and Sindhi cuisine. Sindhi biryani is prepared with meat and a mixture of basmati rice, vegetables and various spices.",
+        "price": 1750,
+        "origin": "Pakistan",
+        "facebook": "https://www.facebook.com/dawatebiriyanibd",
+        "twitter": "https://twitter.com/dhaka_biryani",
+        "instagram": "https://www.instagram.com/dhakabiryani/"
+    },
+    {
+        "key": 20010,
+        "name": "Thalassery biryani",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Biriyani.jpg/1280px-Biriyani.jpg",
+        "description": "Thalassery biryani is the variation of biryani found in the Indian state of Kerala. It is one of the many dishes of the Malabar Muslim community, and very popular. The ingredients are chicken, spices and the specialty is the choice of rice called khyma. ",
+        "price": 1150,
+        "origin": "Kerala,India",
+        "facebook": "https://www.facebook.com/dawatebiriyanibd",
+        "twitter": "https://twitter.com/dhaka_biryani",
+        "instagram": "https://www.instagram.com/dhakabiryani/"
+    },
+    {
+        "key": 20011,
+        "name": "Burmese biryani",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Kyet_Shar_Soon_biryani.jpg/1280px-Kyet_Shar_Soon_biryani.jpg",
+        "description": "In Myanmar (Burma), biryani is known in Burmese as danpauk or danbauk (ဒံပေါက်), derived from the Persian term dum pukht, which refers to a slow oven cooking technique. Danbauk is a mainstay at festive events such as Thingyan, weddings and donation feasts.",
+        "price": 850,
+        "origin": "Burma,Myanmar",
+        "facebook": "https://www.facebook.com/dawatebiriyanibd",
+        "twitter": "https://twitter.com/dhaka_biryani",
+        "instagram": "https://www.instagram.com/dhakabiryani/"
+    },
+    {
+        "key": 20012,
+        "name": "Arabian Biriyani",
+        "image": "https://www.maggiarabia.com/sites/default/files/styles/maggi_desktop_image_style/public/Maggi%20Sofra%20%235%20Final%20Dish_Chicken%20Mandi%20gulf.jpg?itok=zP5mbvji",
+        "description": "It is popular throughout Iraq especially in Iraqi Kurdistan. Most variations also include vermicelli, fried onions, fried potato cubes, almonds and raisins spread liberally over the rice.[18] Sometimes, a sour/spicy tomato sauce is served on the skeye.",
+        "price": 750,
+        "origin": "Arabian Peninsula",
+        "facebook": "https://www.facebook.com/dawatebiriyanibd",
+        "twitter": "https://twitter.com/dhaka_biryani",
+        "instagram": "https://www.instagram.com/dhakabiryani/"
+    },
+    {
+        "key": 20013,
+        "name": "Rawther biryani",
+        "image": "https://res.cloudinary.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/tc3cwnjuu4m7ztwgydzj",
+        "description": "This type of biryani is popular in the Palakkad and Coimbatore regions. This was most commonly prepared by Rawther families in Kerala and Tamil Nadu. This type of biryani is cooked in a different style. Goat meat is most commonly used and it is entirely different from Malabar biryani.",
+        "price": 950,
+        "origin": "Tamil Nadu",
+        "facebook": "https://www.facebook.com/dawatebiriyanibd",
+        "twitter": "https://twitter.com/dhaka_biryani",
+        "instagram": "https://www.instagram.com/dhakabiryani/"
+    }
+]

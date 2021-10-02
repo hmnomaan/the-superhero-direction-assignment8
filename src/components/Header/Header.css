@@ -1,0 +1,12 @@
+.header{
+    text-align: center;
+    color: white;
+    font-weight: 700;
+    font-size: 30px;
+    background-color:rgb(12, 110, 128);
+    padding: 10px;
+  
+}
+.header h5{
+    font-weight: 400;
+}
