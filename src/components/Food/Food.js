@@ -27,9 +27,9 @@ const Food = (props) => {
 
                     {/* social icon  */}
                     <div >
-                        <a className="social-icon" target="_blank" rel="noopener noreferrer" href={props.food.facebook}>{facebookIcon}</a>
-                        <a className="social-icon" target="_blank" rel="noopener noreferrer" href={props.food.twitter}>{twitterIcon}</a>
-                        <a className="social-icon" target="_blank" rel="noopener noreferrer" href={props.food.instagram}>{instagramIcon}</a>
+                        <a className="social-icon" target="_blank" rel="noopener noreferrer" href={facebook}>{facebookIcon}</a>
+                        <a className="social-icon" target="_blank" rel="noopener noreferrer" href={twitter}>{twitterIcon}</a>
+                        <a className="social-icon" target="_blank" rel="noopener noreferrer" href={instagram}>{instagramIcon}</a>
                     </div>
                 </div>
 
